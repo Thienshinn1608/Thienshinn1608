@@ -31,15 +31,8 @@
 ## 🛠️ Languages and Tools
 
 <div align="center">
-
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,nodejs,php,vscode,github,java&perline=8" alt="Languages and Tools" />
-
-  <img
-    src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg"
-    width="48"
-    height="48"
-    alt="ChatGPT"
-  />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,nodejs,php,vscode,github,java&perline=8" height="48" alt="Languages and Tools" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" width="48" height="48" alt="ChatGPT" />
 </div>
 
 ---
