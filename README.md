@@ -32,9 +32,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,c,cpp,nodejs,php,vscode,github,java&perline=8" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,nodejs,php,vscode,github,java&perline=8" alt="Languages and Tools" />
 
-<img src="https://cdn.simpleicons.org/openai/white" width="48" height="48" alt="ChatGPT" />
+  <img src="./assets/chatgpt-logo.png" width="48" height="48" alt="ChatGPT" />
 
 </div>
 
