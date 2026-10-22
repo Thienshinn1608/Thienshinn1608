@@ -1,41 +1,46 @@
+
 <div align="center">
 
-# Hi there! 👋 I'm Thienshinn1608
+# 👋 Hi there! I'm Thienshinn1608
 
 ### 💻 Passionate Developer | 🚀 Always Learning
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+building+projects;Always+learning+new+technologies" alt="Typing SVG" />
+**Welcome to my GitHub Profile!**
 
-<img src="https://komarev.com/ghpvc/?username=Thienshinn1608&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+`Python` • `C` • `C++` • `Java` • `PHP` • `Node.js`
+
+<a href="https://github.com/Thienshinn1608">
+  <img src="https://img.shields.io/badge/GitHub-Thienshinn1608-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+</a>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🌱 I'm currently learning and improving my programming skills.
-- 💻 I enjoy building projects and exploring new technologies.
-- 🚀 I love solving problems and writing clean code.
-- 📚 Always curious and eager to learn something new.
-- 💬 Feel free to connect with me on GitHub.
-- 📫 Reach me: [GitHub](https://github.com/Thienshinn1608)
+- 💻 I enjoy building software and exploring new technologies.
+- 🐍 Interested in Python, C/C++, Java, PHP and Node.js.
+- 🚀 Interested in AI, Computer Vision and software development.
+- 📚 Always learning and working on new ideas.
+- 📫 Reach me on [GitHub](https://github.com/Thienshinn1608).
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,nodejs,php,vscode,github,java&perline=8" alt="Languages and Tools" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-</p>
+<img src="https://skillicons.dev/icons?i=py,c,cpp,nodejs,php,vscode,github,java&perline=8" alt="Languages and Tools" />
+
+<img src="https://cdn.simpleicons.org/openai/white" width="48" height="48" alt="ChatGPT" />
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -47,7 +52,7 @@
 
 ---
 
-### 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -57,21 +62,57 @@
 
 ---
 
-### 📂 My Repositories
+## 🏆 GitHub Achievements
 
-Explore my projects and repositories here:
+<div align="center">
 
-[![GitHub Repositories](https://img.shields.io/badge/View_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thienshinn1608?tab=repositories)
+<a href="https://github.com/Thienshinn1608?tab=achievements">
+  <img src="https://img.shields.io/badge/View_My_Achievements-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Achievements" />
+</a>
+
+</div>
 
 ---
 
-### 🌐 Connect With Me
+## 📂 Featured Project
 
-<p align="center">
-  <a href="https://github.com/Thienshinn1608">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<div align="center">
+
+### 🚗 Dashcam Traffic Violation Detection
+
+A project focused on vehicle detection, tracking and traffic violation analysis using computer vision.
+
+<a href="https://github.com/Thienshinn1608/Dashcam-traffic-violation-detection">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Dashcam Project" />
+</a>
+
+</div>
+
+---
+
+## 📁 My Repositories
+
+<div align="center">
+
+Explore my projects and repositories.
+
+<a href="https://github.com/Thienshinn1608?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_Repositories-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+</a>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Thienshinn1608">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
 
 ---
 
